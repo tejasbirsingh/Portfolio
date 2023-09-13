@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Chatify",
+    "imageSrc": "projects/chatify_logo.png",
+    "description": "Chatting and Video Calling app",
+    "skills": ["Flutter", "Dart", "App development"],
+    "source": "https://github.com/tejasbirsingh/Chatify-Video-Calling-and-Chatting"
+  }
+]

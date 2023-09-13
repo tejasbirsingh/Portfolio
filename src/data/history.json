@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Software Development Engineer",
+    "organisation": "Amazon",
+    "startDate": "Oct, 2021",
+    "endDate": "present",
+    "experiences": [
+      "Orchestrated the end-to-end design and successful deployment of a video thumbnail framework, seamlessly integrating it across multiple microservices within the Amazon Ads ecosystem",
+      "Led the development of a metadata extraction framework, architecting its orchestration flow and microservices. Utilized FFProbe and AWS Rekognition to extract various metadata types, including descriptive (image captions, labels, text, color) and technical (bitrate, FPS, duration, size, sample rate). Captured image captions for images and videos, with data storage in a database and metadata upload to an S3 bucket",
+      "Designed and implemented a robust proxy layer using the ECS framework, enhancing the metadata extraction architecture. This proxy layer served as a client interface, featuring API contracts, and seamlessly integrated with the Ads API Gateway for robust client authentication and authorization."
+    ],
+    "imageSrc": "history/amazon.png"
+  },
+  {
+    "role": "Java Technology Trainee",
+    "organisation": "Nagarro",
+    "startDate": "March, 2021",
+    "endDate": "September, 2021",
+    "experiences": [
+      "Fixed the bugs related to Invoice, Airway bill numbers and Manifest",
+      "Traced errors related to third party API(ClearTax) for generating invoice"
+    ],
+    "imageSrc": "history/nagarro.png"
+  }
+]

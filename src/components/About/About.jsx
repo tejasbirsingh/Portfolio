@@ -19,8 +19,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Software Development Engineer</h3>
               <p>
-                I'm a software developer with experience in designing and working with micro services
-                utilizing AWS services
+              I'm a software development engineer with 2+ years of experience in working with microservices, NoSql database such as
+              DynamoDB, SQS, SNS, AWS Rekognition, Cloudfront and other AWS services along with designing systems end to end.
+              Reach out if you'd like to learn more!
               </p>
             </div>
           </li>

@@ -9,8 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Tejas Bir Singh</h1>
         <p className={styles.description}>
-          I'm a software development engineer with 2+ years of experience in working with microservices, AWS services, backend.
-           Reach out if you'd like to learn more!
+        In the world of software development, I'm driven by a passion for learning and a dedication to 
+        mastering diverse aspects of the field.
+        
+        Connect with me if you're curious to explore further!
         </p>
         <a href="mailto:tejasbir.rekhi@gmail.com" className={styles.contactBtn}>
           Contact Me

@@ -4,6 +4,14 @@
     "imageSrc": "skills/java.png"
   },
   {
+    "title": "DynamoDB",
+    "imageSrc": "skills/ddb.png"
+  },
+  {
+    "title": "SQS",
+    "imageSrc": "skills/SQS.png"
+  },
+  {
     "title": "Flutter",
     "imageSrc": "skills/flutter.png"
   },

@@ -5,9 +5,9 @@
     "startDate": "Oct, 2021",
     "endDate": "present",
     "experiences": [
-      "Orchestrated the end-to-end design and successful deployment of a video thumbnail framework, seamlessly integrating it across multiple microservices within the Amazon Ads ecosystem",
-      "Led the development of a metadata extraction framework, architecting its orchestration flow and microservices. Utilized FFProbe and AWS Rekognition to extract various metadata types, including descriptive (image captions, labels, text, color) and technical (bitrate, FPS, duration, size, sample rate). Captured image captions for images and videos, with data storage in a database and metadata upload to an S3 bucket",
-      "Designed and implemented a robust proxy layer using the ECS framework, enhancing the metadata extraction architecture. This proxy layer served as a client interface, featuring API contracts, and seamlessly integrated with the Ads API Gateway for robust client authentication and authorization."
+      "Successfully implemented a comprehensive content metadata extraction system, leveraging tools such as FFProbe and Rekognition. This initiative played a pivotal role in the organization-wide AI Gen project, significantly enhancing the availability of metadata for content. The extracted metadata is poised to power future AI features.",
+      "Developed and deployed a robust proxy layer using AWS Fargate (ECS) to serve as a client interface. This layer not only featured well-defined API contracts but also implemented authorization mechanisms. This architectural enhancement improved accessibility and security for interacting with content metadata, adhering to Advertising API standards. The system seamlessly exposed content metadata APIs to both internal (1P) and external (3P) clients.",
+      "Spearheaded the end-to-end design and implementation of a thumbnail extraction system, conducting in-depth research on tools such as MediaConvert and FFProbe to optimize the extraction process. The successful implementation of this system resulted in a noteworthy 5% increase in the visual appeal of sponsored video ads, as visually striking thumbnails were effectively showcased"
     ],
     "imageSrc": "history/amazon.png"
   },

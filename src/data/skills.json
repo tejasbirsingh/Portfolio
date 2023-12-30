@@ -22,5 +22,9 @@
   {
     "title": "Backend",
     "imageSrc": "skills/backend.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
   }
 ]
